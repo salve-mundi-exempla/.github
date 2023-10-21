@@ -1,8 +1,10 @@
 # Salve Mundi Exempla => Hello World Examples
 
 [![gh actions workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/gh-actions.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/gh-actions.yml)
-[![git-pr workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/git-pr.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/git-pr.yml)
+[![git workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/git.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/git.yml)
+[![json workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/json.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/json.yml)
 [![link check workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/links.yml)
+[![markdown workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/markdown.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/markdown.yml)
 [![proselint workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/proselint.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/proselint.yml)
 [![spellcheck workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/spellcheck.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/spellcheck.yml)
 [![woke workflow](https://github.com/salve-mundi-exempla/.github/actions/workflows/woke.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/.github/actions/workflows/woke.yml)
