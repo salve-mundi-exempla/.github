@@ -1,7 +1,10 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/salve-mundi-exempla/.github/main/images/banner.svg" alt="Salve Mundi Exempla => Hello World Examples" />
+
     Salve Mundi Exempla => Hello World Examples
 </h1>
+
+</hr>
 
 Yeah, Hello World related org names were already taken.
 
