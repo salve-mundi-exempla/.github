@@ -13,3 +13,7 @@
 Yeah, Hello World related org names were already taken.
 
 Primary purpose? For me to experiment with GitHub Actions, GitHub Pages, etc without having to worry about other project related things.
+
+## GitHub Org Avatar
+
+Using [Craiyon](https://www.craiyon.com/) generated [image of the globe](salva-mundi-org-avatar.jpeg)
